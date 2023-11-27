@@ -1,0 +1,13 @@
+.menu {
+    display:flex; justify-content:flex-end;
+}
+css
+body {
+    background-color: rgb(214, 228, 255);
+}
+
+#instagram_column a .ttl {background: #ffb99b;}
+footer {background: #c6c5ea;}
+#column_l #about_circle:hover {background: #ffb99b;}
+#column_l .list_info li a:hover {background: #d1ca00;}
+#column_l #workshop_column .list_workshop li:hover {background: #d1ca00;}
